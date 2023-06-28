@@ -1,0 +1,13 @@
+{
+    "mod_id": "thirstmod",
+    "mod_name": "Thirst Mod",
+    "mod_filename": "thirstmod-1.8.14.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "tarun1998"
+    ],
+    "url_website": "https://legacy.curseforge.com/minecraft/mc-mods/thirst-mod/",
+    "description": "Thirst Mod aims to increase the difficulty of Minecraft by adding a Thirst Bar along with other goodies.",
+    "mod_version": "1.8.14",
+    "mod_dir": "/Thirst_Mod/"
+}
